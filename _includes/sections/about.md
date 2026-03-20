@@ -1,15 +1,15 @@
-## About Me
+---                                   # front‑matter
+layout: single                         # any layout you like (single, page, etc.)
+title: "About Me"
+permalink: /about/
+author_profile: false                  # ← turn off the default sidebar
+---
 
-I’m a **Ph.D. candidate** in Mechanical Engineering at the University of Washington, Seattle.  
-My research focuses on the rise and settling velocities of particles in **wavy** and **turbulent** flows.  
+<!-- OPTIONAL: any introductory markdown you want -->
+Welcome! I’m a post‑doctoral researcher in physical oceanography…
 
-### Research interests
-- Particle‑fluid interaction in surface‑wave environments  
-- Lagrangian particle statistics and turbulent diffusion  
-- Experimental and numerical methods for multiphase flow  
+<!-- Insert the trimmed author card -->
+{% include author-profile.html %}
 
-### A little beyond the lab
-- **Photography** – landscape and street scenes  
-- **Drawing** – charcoal and digital illustration  
 
 $$ \int_0^\infty \mathbf{A}(z)\,dz. $$
