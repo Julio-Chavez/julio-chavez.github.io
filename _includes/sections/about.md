@@ -1,8 +1,8 @@
 ---
-layout: single                         # any layout you like (single, page, etc.)
+layout: single
 title: "About Me"
 permalink: /about/
-author_profile: false                  # ← turn off the default sidebar
+author_profile: false
 ---
 
 <!-- OPTIONAL: any introductory markdown you want -->
