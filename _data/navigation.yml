@@ -6,9 +6,7 @@ main:
     url: "/#research"
   - title: "Publications"
     url: "/#publications"
-  - title: "Publications"
-    url: /publications/
-   
+
   # - title: "CV"
   #   # url: /cv/
   #   url: /files/Julio_Chavez_cv.pdf

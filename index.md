@@ -18,7 +18,3 @@ permalink: /
     {% include archive-single.html %}
   {% endfor %}
 </section>
-
-<!-- <section id="teaching">
-  {% include sections/teaching.md %}
-</section> -->
