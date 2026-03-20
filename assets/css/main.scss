@@ -1,6 +1,5 @@
 ---
 ---
-
 /*
  *    Minimal Mistakes Jekyll Theme
  *
@@ -9,7 +8,7 @@
  *  - https://twitter.com/mmistakes
  *
 */
-
+@import "cm-font";
 @import "vendor/breakpoint/breakpoint"; // media query mixins
 @import "variables";
 @import "mixins";

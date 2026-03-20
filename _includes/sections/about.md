@@ -11,3 +11,5 @@ My research focuses on the rise and settling velocities of particles in **wavy**
 ### A little beyond the lab
 - **Photography** – landscape and street scenes  
 - **Drawing** – charcoal and digital illustration  
+
+$$ \int_0^\infty \mathbf{A}(z)\,dz. $$
