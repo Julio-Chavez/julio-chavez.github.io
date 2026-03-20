@@ -4,17 +4,17 @@ author_profile: true
 permalink: /
 ---
 
-<section id="about">
-  {% include sections/about.md %}
+<!-- ABOUT -->
+<section id="about" class="page-section" markdown="1">
+{% include sections/about.md %}
 </section>
 
-<section id="research">
-  {% include sections/research.md %}
+<!-- RESEARCH -->
+<section id="research" class="page-section" markdown="1">
+{% include sections/research.md %}
 </section>
 
-<section id="publications">
-  <h2>Publications</h2>
-  {% for pub in site.publications %}
-    {% include archive-single.html %}
-  {% endfor %}
+<!-- PUBLICATIONS -->
+<section id="publications" class="page-section" markdown="1">
+{% include sections/publications.md %}
 </section>
