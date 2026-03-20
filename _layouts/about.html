@@ -1,0 +1,34 @@
+   <!doctype html>
+   <html lang="{{ site.lang | default: 'en' }}">
+   <head>
+     <meta charset="utf-8">
+     <title>{{ page.title }} | {{ site.title }}</title>
+     {% include head.html %}   {# any global <head> includes #}
+   </head>
+
+   <body>
+     {% include navigation.html %}   {# optional site‑wide nav #}
+
+     <main class="about-page">
+       {# Optional hero / banner #}
+       {% if page.hero_image %}
+         <section class="hero" style="background-image:url('{{ page.hero_image }}');">
+           <h1>{{ page.title }}</h1>
+         </section>
+       {% endif %}
+
+       <section class="about-content" id="about">
+         {# The markdown content from about.md is injected here #}
+         {{ content }}
+       </section>
+
+       {# Author profile – the layout decides when/where to show it #}
+       {% unless page.author_profile == false %}
+         {% include author-profile.html %}
+       {% endunless %}
+     </main>
+
+     {% include footer.html %}
+   </body>
+   </html>
+   
