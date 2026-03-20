@@ -1,0 +1,25 @@
+/* -------------------------------------------------
+    Load Computer Modern from a CDN (Google Fonts)
+   ------------------------------------------------- */
+@import url('https://fonts.googleapis.com/css2?family=Computer+Modern+Serif:wght@400;700&display=swap');
+
+/* -------------------------------------------------
+    Tell the theme which font family to use for normal text
+   ------------------------------------------------- */
+/* The Minimal Mistakes theme reads the variable
+   $font-family-sans-serif (or $font-family-base in older versions)
+   when it builds the final CSS. Overriding it here makes the
+   generated `body { font-family: … }` already contain CM. */
+$font-family-sans-serif: "Computer Modern Serif", serif;
+
+/* -------------------------------------------------
+    Keep code blocks monospaced (you wanted this)
+   ------------------------------------------------- */
+code,
+pre,
+kbd,
+samp,
+tt,
+var {
+  font-family: Menlo, Monaco, Consolas, "Courier New", monospace;
+}
