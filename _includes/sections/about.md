@@ -1,10 +1,12 @@
 ---
-layout: about
-title: "About Me"
-permalink: /about/
-author_profile: false
+permalink: /
+title: "About me"
+author_profile: true
+redirect_from: 
+  - /about/
+  - /about.html
 ---
 
-Welcome! I’m a Ph.D. candidate in Mechanical Engineering
+I'm a Ph.D. student in Mechanical Engineering at the University of Washington in Seattle, WA. My research focuses on the rise/settling velocity of particles in wavy and turbulent flows. Prior to my Ph.D., I received a Master's degree in Civil Engineering from The University of Texas at Austin and a Bachelor's degree from Universidad Autónoma Gabriel René Moreno in Bolivia. Beyond academia, I enjoy photography and drawing.
 
 $$ \int_0^\infty \mathbf{A}(z)\,dz. $$
