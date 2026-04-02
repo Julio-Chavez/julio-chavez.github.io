@@ -1,3 +1,7 @@
+---
+title: "Research"
+---
+
 ## Current Research
 
 My research focuses on the fundamental physics of particle transport in turbulent and wave-driven flows. 
