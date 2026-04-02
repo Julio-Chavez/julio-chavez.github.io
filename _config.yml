@@ -144,7 +144,6 @@ analytics:
 # Reading Files
 include:
   - .htaccess
-  - _pages
   - files
   - _sections
 exclude:
