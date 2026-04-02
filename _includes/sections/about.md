@@ -1,10 +1,3 @@
----
-title: "About"
-author: julio               # <- only needed if you use the _data/authors.yml file
-layout: none                # we do NOT want a full page layout; we only want the snippet
-permalink: /about/          # (optional – not used by the single‑page version)
----
-
 {% comment %}
    Render the author‑profile widget (the file you posted)
 {% endcomment %}
