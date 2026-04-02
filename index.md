@@ -6,7 +6,7 @@ permalink: /
 
 <!-- ABOUT -->
 <section id="about" class="page-section" markdown="1">
-{% include sections/about.md %}
+{% pages/about.md %}
 </section>
 
 <!-- RESEARCH -->
