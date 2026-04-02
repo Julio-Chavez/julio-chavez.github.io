@@ -1,0 +1,25 @@
+/* _sass/_about.scss */
+
+.about-flex-wrapper {
+  display: flex;
+  flex-direction: column; /* Mobile first: Stacked */
+  gap: 2rem;              /* Space between bio and snippet */
+
+  @include breakpoint($large) {
+    flex-direction: row;  /* Desktop: Side-by-side */
+  }
+}
+
+.about-profile-side {
+  flex: 2; /* Takes up 2/3rds of space */
+}
+
+.about-snippet-side {
+  flex: 1; /* Takes up 1/3rd of space */
+  
+  /* Optional: Add a subtle border or background to the snippet column */
+  padding: 1rem;
+  background: #fcfcfc;
+  border-radius: 8px;
+  border: 1px solid #e0e0e0;
+}
