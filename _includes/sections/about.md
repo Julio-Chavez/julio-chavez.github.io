@@ -20,5 +20,4 @@
 
 
 
-<!-- Example of an image / GIF that lives in the assets folder -->
-<img src="/images/calculation-cat.gif" alt="Sample GIF" style="max-width:100%; height:auto; margin-top:1rem;">
+

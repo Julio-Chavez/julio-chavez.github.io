@@ -1,8 +1,4 @@
----
-title: "Research"
----
-
-## Current Research
+# Current Research
 
 My research focuses on the fundamental physics of particle transport in turbulent and wave-driven flows. 
 These systems are inherently complex: fluid motion spans a wide range of scales, and particles interact 
@@ -18,8 +14,8 @@ enabling more accurate predictions and better-informed decisions in complex natu
 <!-- Displaying an Image -->
 <!-- ![Experimental Setup]({{ '/assets/images/experiment.jpg' | relative_url }}) -->
 
-<!-- Displaying a GIF -->
-<!-- ![Simulation Result]({{ '/assets/images/simulation.gif' | relative_url }}) -->
+<!-- Example of an image / GIF that lives in the assets folder -->
+<img src="/images/calculation-cat.gif" alt="Sample GIF" style="max-width:100%; height:auto; margin-top:1rem;">
 
 <!-- Displaying a Video (HTML5) -->
 <!-- <video width="100%" controls>
