@@ -2,27 +2,18 @@
 layout: default
 author_profile: true
 permalink: /
----
-
-<!-- ABOUT SECTION -->
-<section id="about" class="page-section">
-  {% assign about = site.pages | where: "name", "about.md" | first %}
-  {{ about.content | markdownify }}
+--- 
+<!-- ABOUT -->
+<section id="about" class="page-section" markdown="1">
+{% include sections/about.md %}
 </section>
 
-<hr>
-
-<!-- RESEARCH SECTION -->
-<section id="research" class="page-section">
-  {% assign research = site.pages | where: "name", "research.md" | first %}
-  {{ research.content | markdownify }}
+<!-- RESEARCH -->
+<section id="research" class="page-section" markdown="1">
+{% include sections/research.md %}
 </section>
 
-<hr>
-
-<!-- PUBLICATIONS SECTION -->
-<section id="publications" class="page-section">
-  <h1>Publications</h1>
-  {% assign pubs = site.pages | where: "name", "publications.md" | first %}
-  {{ pubs.content | markdownify }}
+<!-- PUBLICATIONS -->
+<section id="publications" class="page-section" markdown="1">
+{% include sections/publications.md %}
 </section>
