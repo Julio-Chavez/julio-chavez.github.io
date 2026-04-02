@@ -11,11 +11,11 @@
 }
 
 .about-profile-side {
-  flex: 1; /* Takes up 1/3rd of space */
+  flex: 1 1 33%; /* Takes up 1/3rd of space */
 }
 
 .about-snippet-side {
-  flex: 2; /* Takes up 2/3rds of space */
+  flex: 2 1 66%; /* Takes up 2/3rds of space */
   
   /* Optional: Add a subtle border or background to the snippet column */
   padding: 1rem;
