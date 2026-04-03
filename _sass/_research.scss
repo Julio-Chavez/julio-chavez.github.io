@@ -1,7 +1,7 @@
 /* _sass/_research.scss */
 
 #research {
-  padding: 2rem 1.5rem;
+  padding: 1.5rem 1.5rem;
   max-width: 1300px;
   margin: 0 auto;
   background: #ffffff; /* White background as requested */
@@ -11,7 +11,7 @@
   hr.section-divider {
     border: 0;
     border-top: 1px solid #e0e0e0;
-    margin: 3rem 0;
+    margin: 2rem 0;
   }
 
   h2 {
@@ -53,6 +53,10 @@
 }
 
 /* Image Side */
+/* ----   Variables – easy to tweak site‑wide ---- */
+$media-max-height: 45vh;   // you can lower/higher this value later
+$media-max-width : 100%;   // never wider than the column
+
 .project-media {
   flex: 1;
   width: 100%;
@@ -60,11 +64,29 @@
   figure {
     margin: 0;
     text-align: center;
-    
-    img {
-      width: 100%;
+
+    /* ----   Wrapper that forces the “keep‑ratio + max‑size” rule ---- */
+    .media-box {
+      // The wrapper itself does not impose a size; it only passes the constraints
+      // to the replaced element inside it.
+      display: block;
+      max-width: $media-max-width;   // ≤ column width
+      max-height: $media-max-height; // ≤ viewport‑relative height
+      margin-left: auto;
+      margin-right: auto;
+    }
+
+    img,
+    video,
+    picture {
+      // By placing the element inside .media‑box we guarantee the same rules
+      // even if you later decide to apply the class directly to the element.
+      width: auto;
+      max-width: $media-max-width;      // never overflow the column
       height: auto;
-      max-height: 45vh; // keep very tall media from dominating
+      max-height: $media-max-height;   // caps very tall media
+      object-fit: contain;              // no stretching, letter‑box if needed
+      aspect-ratio: auto;               // keep intrinsic ratio (fallback for older browsers)
     }
 
     figcaption {
