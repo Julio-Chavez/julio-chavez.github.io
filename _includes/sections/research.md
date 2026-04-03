@@ -17,12 +17,12 @@
       <h3>Particle Transport in Free-Surface Flows</h3>
       <span class="collab-text">In collaboration with Dr. Jim Riley (UW)</span>
       <p>My doctoral research investigates how nearly neutrally buoyant particles are transported in a turbulent free-surface boundary layer. These flows are relevant to environmental systems such as oceans, rivers, and atmospheric interfaces.</p>
-      <p>I conduct controlled laboratory experiments in a wind-wave flume and analyze particle motion using particle tracking and particle image velocimetry (PIV). A central focus of this work is understanding how waves and turbulence affect the transport of near-neutrally buoyant particles.</p>
+      <p>I conduct laboratory experiments in a wind-wave flume and analyze particle motion using particle tracking (PT). A central focus of this work is understanding how waves and turbulence affect the transport of near-neutrally buoyant particles.</p>
     </div>
     <div class="project-media">
       <figure>
         <img src="/images/tracks-r10-16-short.gif" alt="Particle Animation">
-        <figcaption>Simulation of spheroids in a turbulent boundary layer.</figcaption>
+        <figcaption>Particle trajectories under wind-generated waves and turbulence (from experiments).</figcaption>
       </figure>
     </div>
   </div>
@@ -36,8 +36,8 @@
     </div>
     <div class="project-media">
       <figure>
-        <img src="/images/calculation-cat.gif" alt="Ocean Plastic Map">
-        <figcaption>Vertical profile of concentration under varying turbulence levels.</figcaption>
+        <img src="/images/tayl_wacorr_z_part_pres.pdf" alt="Autocorrelation functions">
+        <figcaption>Vertical velocity autocorrelation functions for different particle types under two wind speeds.</figcaption>
       </figure>
     </div>
   </div>
