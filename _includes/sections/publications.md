@@ -1,9 +1,3 @@
----
-layout: page
-title: Publications
-permalink: /publications/
----
-
 <div id="publications">
   <h2>Publications</h2>
   <hr class="section-divider">
