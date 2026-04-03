@@ -1,0 +1,77 @@
+/* _sass/_research.scss */
+
+#research {
+  padding: 2rem 1.5rem;
+  max-width: 1300px;
+  margin: 0 auto;
+  background: #ffffff; /* White background as requested */
+  color: #333;
+  
+  /* Horizontal line styling */
+  hr.section-divider {
+    border: 0;
+    border-top: 1px solid #e0e0e0;
+    margin: 3rem 0;
+  }
+
+  h2 {
+    margin-bottom: 1.5rem;
+    font-weight: 700;
+  }
+}
+
+/* Project Row Container */
+.project-row {
+  display: flex;
+  flex-direction: column; /* Mobile first: stack vertically */
+  gap: 2rem;
+  margin-bottom: 4rem;
+  align-items: center;
+
+  @include breakpoint($large) {
+    flex-direction: row; /* Desktop: side-by-side */
+    
+    /* This class flips the order manually to keep the trend across subsections */
+    &.reverse {
+      flex-direction: row-reverse;
+    }
+  }
+}
+
+/* Text Side */
+.project-text {
+  flex: 1;
+  
+  .collab-text {
+    display: block;
+    font-size: 0.85rem;
+    color: #666;
+    margin-top: -0.5rem;
+    margin-bottom: 1rem;
+    font-style: italic;
+  }
+}
+
+/* Image Side */
+.project-media {
+  flex: 1;
+  width: 100%;
+
+  figure {
+    margin: 0;
+    text-align: center;
+    
+    img {
+      width: 100%;
+      height: auto;
+      max-height: 45vh; // keep very tall media from dominating
+    }
+
+    figcaption {
+      margin-top: 0.8rem;
+      font-size: 0.85rem;
+      color: #777;
+      line-height: 1.4;
+    }
+  }
+}
