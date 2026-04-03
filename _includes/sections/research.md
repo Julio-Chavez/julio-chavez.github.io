@@ -17,12 +17,12 @@
       <h3>Particle Transport in Free-Surface Flows</h3>
       <span class="collab-text">In collaboration with Dr. Jim Riley (UW)</span>
       <p>My doctoral research investigates how nearly neutrally buoyant particles are transported in a turbulent free-surface boundary layer. These flows are relevant to environmental systems such as oceans, rivers, and atmospheric interfaces.</p>
-      <p>I conduct controlled laboratory experiments in a wind-wave flume and analyze particle motion using particle tracking and particle image velocimetry (PIV). A central focus of this work is understanding how waves and turbulence affect the transport of near-neutrally buoyant particles. @3.</p>
+      <p>I conduct controlled laboratory experiments in a wind-wave flume and analyze particle motion using particle tracking and particle image velocimetry (PIV). A central focus of this work is understanding how waves and turbulence affect the transport of near-neutrally buoyant particles.</p>
     </div>
     <div class="project-media">
       <figure>
-        <img src="/images/calculation-cat.gif" alt="Particle Animation">
-        <figcaption>Fig 1: Simulation of spheroids in a turbulent boundary layer.</figcaption>
+        <img src="/images/tracks-r10-16-short.gif" alt="Particle Animation">
+        <figcaption>Simulation of spheroids in a turbulent boundary layer.</figcaption>
       </figure>
     </div>
   </div>
@@ -32,12 +32,12 @@
     <div class="project-text">
       <h3>Lagrangian Autocorrelation in Free-Surface Flows</h3>
       <span class="collab-text">In collaboration with Dr. Jim Riley (UW)</span>
-      <p>This project focuses on the effects of waves and turbulence on the velocity fluctuation autocorrelation of particles @5.</p>
+      <p>This project focuses on the effects of waves and turbulence on the velocity fluctuation autocorrelation of particles.</p>
     </div>
     <div class="project-media">
       <figure>
         <img src="/images/calculation-cat.gif" alt="Ocean Plastic Map">
-        <figcaption>Fig 2: Vertical profile of concentration under varying turbulence levels.</figcaption>
+        <figcaption>Vertical profile of concentration under varying turbulence levels.</figcaption>
       </figure>
     </div>
   </div>
@@ -53,12 +53,12 @@
     <div class="project-text">
       <h3>Wave–Turbulence Decomposition (Data-Driven Methods)</h3>
       <span class="collab-text">In collaboration with Dr. Isabel Scherl (now at UMass Amherst)</span>
-      <p>We developed a data-driven technique to separate wave motion from turbulent fluctuations in velocity fields. Using modal decomposition methods such as Dynamic Mode Decomposition (DMD), I identify coherent structures associated with waves and isolate turbulent contributions. This approach enables more accurate quantification of transport processes in complex, multi-scale flows. @4.</p>
+      <p>We developed a data-driven technique to separate wave motion from turbulent fluctuations in velocity fields. Using modal decomposition methods such as Dynamic Mode Decomposition (DMD), I identify coherent structures associated with waves and isolate turbulent contributions. This approach enables more accurate quantification of transport processes in complex, multi-scale flows.</p>
     </div>
     <div class="project-media">
       <figure>
         <img src="/images/calculation-cat.gif" alt="Hydrogen Platform">
-        <figcaption>Fig 3: Prototype of the Hydrobot modular electrolysis unit.</figcaption>
+        <figcaption>Prototype of the Hydrobot modular electrolysis unit.</figcaption>
       </figure>
     </div>
   </div>
