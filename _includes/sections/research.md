@@ -57,8 +57,8 @@
     </div>
     <div class="project-media">
       <figure>
-        <img src="/images/calculation-cat.gif" alt="Hydrogen Platform">
-        <figcaption>Prototype of the Hydrobot modular electrolysis unit.</figcaption>
+        <img src="/images/wave-turb_spec.pdf" alt="spectra">
+        <figcaption>Synthetic raw, turbulence- and wave-only spectra.</figcaption>
       </figure>
     </div>
   </div>
