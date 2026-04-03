@@ -1,0 +1,50 @@
+/* -------------------------------------------------
+   #publications – styling that mirrors #research
+   ------------------------------------------------- */
+#publications {
+  padding: 1.5rem 1.5rem;
+  max-width: 1300px;
+  margin: 0 auto;
+  background: #fafafa;          /* light‑gray background you requested */
+  color: #333;
+
+  h2 {
+    margin-bottom: 1.5rem;
+    font-weight: 700;
+  }
+
+  hr.section-divider {
+    border: 0;
+    border-top: 1px solid #e0e0e0;
+    margin: 2rem 0;
+  }
+
+  /* Ordered list styling */
+  ol.pub-list {
+    padding-left: 1.5rem;
+    margin: 0;
+  }
+
+  li.pub-item {
+    margin-bottom: 1.25rem;
+    line-height: 1.6;
+    font-size: 0.95rem;
+
+    strong {               /* your name – bold */
+      font-weight: 700;
+    }
+
+    em {                   /* journal / status – italic */
+      font-style: italic;
+      color: #555;
+    }
+
+    a.pub-link {           /* DOI / preprint link */
+      margin-left: 0.5rem;
+      text-decoration: none;
+      color: #007bff;      /* professional blue */
+      font-weight: 600;
+      font-size: 0.85rem;
+    }
+  }
+}
