@@ -12,8 +12,7 @@
     <p>Beyond research, I am committed to expanding access to scientific training. I am the founder of the Science for Bolivia Network, an initiative connecting researchers across disciplines to support scientific education and collaboration.</p>
     <h3>Highlights</h3>
     <ul>
-        <li><a href="#">Recent Award</a></li>
-        <li><a href="#">Featured Paper</a></li>
+        <li><a href="https://journals.ametsoc.org/view/journals/atot/42/5/JTECH-D-24-0039.1.xml">Recent paper</a></li>
     </ul>
   </div>
 

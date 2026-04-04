@@ -37,7 +37,7 @@
     <div class="project-media">
       <figure>
         <img src="/images/autocorrelation_schematic.png" alt="Autocorrelation functions">
-        <figcaption>Vertical velocity autocorrelation functions for different particle types under two wind speeds.</figcaption>
+        <figcaption>Velocity autocorrelation function of a particle in a turbulent flow.</figcaption>
       </figure>
     </div>
   </div>
