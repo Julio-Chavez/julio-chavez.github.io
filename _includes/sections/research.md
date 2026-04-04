@@ -37,7 +37,7 @@
     <div class="project-media">
       <figure>
         <img src="/images/autocorrelation_schematic.png" alt="Autocorrelation functions">
-        <figcaption>Velocity autocorrelation function of a particle in a turbulent flow.</figcaption>
+        <figcaption>Schematic of velocity autocorrelation function of a particle in a turbulent flow.</figcaption>
       </figure>
     </div>
   </div>
@@ -57,8 +57,8 @@
     </div>
     <div class="project-media">
       <figure>
-        <img src="/images/wave-turb_spec.pdf" alt="spectra">
-        <figcaption>Synthetic raw, turbulence- and wave-only spectra.</figcaption>
+        <img src="/images/wave-turb_schematic.png" alt="wave-turb">
+        <figcaption>Schematic of wave-turbulence separation algorithm.</figcaption>
       </figure>
     </div>
   </div>
