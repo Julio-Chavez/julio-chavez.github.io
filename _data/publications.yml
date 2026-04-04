@@ -18,3 +18,17 @@
   journal: "Journal of Atmospheric and Oceanic Technology 42 (5), 509–526"
   link: "https://doi.org/10.1175/JTECH-D-24-0039.1"
   type: "doi"
+
+- authors: "Axworthy, J., Wang, S., Sofield, R., <strong>Chávez-Dorado, J.</strong>, DiBenedetto, M., Padilla-Gamiño, J."
+  year: 2025
+  title: "Exploring Microplastic Interactions with Reef-Building Corals Across Flow Conditions."
+  journal: "Submitted"
+  link: "https://www.researchsquare.com/article/rs-4750598/v1"
+  type: "preprint"
+
+- authors: "<strong>Chávez-Dorado, J.</strong>, Johnson, B."
+  year: 2021
+  title: "Volumetric Flow Rate Measurement using Surface Imaging Techniques."
+  journal: "14th International Symposium on Particle Image Velocimetry"
+  link: "https://doi.org/10.18409/ispiv.v1i1.50"
+  type: "doi"
