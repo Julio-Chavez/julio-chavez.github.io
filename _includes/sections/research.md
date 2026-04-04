@@ -36,7 +36,7 @@
     </div>
     <div class="project-media">
       <figure>
-        <img src="/images/tayl_wacorr_z_part_pres.pdf" alt="Autocorrelation functions">
+        <img src="/images/autocorrelation_schematic.png" alt="Autocorrelation functions">
         <figcaption>Vertical velocity autocorrelation functions for different particle types under two wind speeds.</figcaption>
       </figure>
     </div>
