@@ -16,7 +16,7 @@
     <div class="project-text">
       <h3>Particle Transport in Free-Surface Flows</h3>
       <span class="collab-text">In collaboration with Dr. Jim Riley (UW)</span>
-      <p>My doctoral research investigates how nearly neutrally buoyant particles are transported in a turbulent free-surface boundary layer. These flows are relevant to environmental systems such as oceans, rivers, and atmospheric interfaces.</p>
+      <p>My research investigates how near-neutrally buoyant particles are transported in a turbulent free-surface boundary layer. These flows are relevant to environmental systems such as oceans, rivers, and atmospheric interfaces.</p>
       <p>I conduct laboratory experiments in a wind-wave flume and analyze particle motion using particle tracking (PT). A central focus of this work is understanding how waves and turbulence affect the transport of near-neutrally buoyant particles.</p>
     </div>
     <div class="project-media">
