@@ -36,7 +36,7 @@
     </div>
     <div class="project-media">
       <figure>
-        <img src="/images/autocorrelation_schematic.png" alt="Autocorrelation functions">
+        <img src="/images/autocorrelation_waves_schematic.png" alt="Autocorrelation functions">
         <figcaption>Schematic of velocity autocorrelation function of a particle in a turbulent flow.</figcaption>
       </figure>
     </div>
