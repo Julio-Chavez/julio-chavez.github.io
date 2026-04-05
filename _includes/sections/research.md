@@ -117,7 +117,7 @@
   <div class="project-media">
     <figure>
       <img src="/images/PIV_1cam.png" alt="1-Camera PIV Schematic">
-      <figcaption>Phase-separation imaging for simultaneous tracking of tracers and plastics.</figcaption>
+      <figcaption>PIV setup for simultaneous tracking of tracers and plastics.</figcaption>
     </figure>
   </div>
 </div>
