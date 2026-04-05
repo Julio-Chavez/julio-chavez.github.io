@@ -63,6 +63,28 @@
     </div>
   </div>
 
+  <hr class="section-divider">
+<h2>Experimental Facilities &amp; Methods</h2>
+<p>I design and execute high‑resolution experiments to capture the multiscale dynamics of particles at the air‑water interface.</p>
+
+<!-- ==== Media‑row (any mix of GIFs, images, videos) ==== -->
+<div class="media-row">
+  <!-- ----------  GIF (you can replace it later) ---------- -->
+  <div class="media-cell">
+    <img src="/images/tracks-r10-16(1)-5550.gif"
+         alt="Shadow‑tracking experiment video">
+    <figcaption>Large‑scale shadow tracking in a wind‑wave flume.</figcaption>
+  </div>
+
+  <!-- ----------  Static image (or another GIF) ---------- -->
+  <div class="media-cell">
+    <img src="/images/vert_velocity.gif"
+         alt="PIV setup">
+    <figcaption>Velocity field from two‑camera PIV configuration.</figcaption>
+  </div>
+</div>
+
+
 </section>
 
 

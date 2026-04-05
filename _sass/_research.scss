@@ -97,3 +97,46 @@ $media-max-width : 100%;   // never wider than the column
     }
   }
 }
+
+/* ---------- Media‑row component ---------- */
+.media-row {
+  /* Flex container – rows will wrap when they run out of space */
+  display: flex;
+  flex-wrap: wrap;
+  gap: 1.5rem;               // space between items
+  justify-content: center;   // centre the row on large screens
+  margin: 2rem 0;            // vertical breathing room
+
+  .media-cell {
+    /* Desired width before wrapping – 300 px is a safe minimum for phones */
+    flex: 1 1 300px;
+    max-width: 45%;          // never wider than ≈½ of the row
+    box-sizing: border-box;
+
+    /* The media element (img / video / picture) */
+    img,
+    video,
+    picture {
+      width: 100%;           // fill the cell’s width
+      height: auto;          // preserve aspect ratio
+      display: block;
+      border-radius: 8px;
+      box-shadow: 0 2px 8px rgba(0, 0, 0, 0.08);
+    }
+
+    /* Optional caption when you wrap the media in <figure> */
+    figcaption {
+      margin-top: 0.5rem;
+      font-size: 0.85rem;
+      color: #555;
+      text-align: center;
+    }
+  }
+
+  /* Small‑screen tweak – force a single column under 480 px (optional) */
+  @media (max-width: 480px) {
+    .media-cell {
+      max-width: 100%;       // each cell takes the full width
+    }
+  }
+}
