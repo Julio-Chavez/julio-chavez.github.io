@@ -95,7 +95,19 @@
     </figure>
   </div>
 </div>
-
+<!-- Method 2 -->
+<div class="project-row reverse">
+  <div class="project-text">
+    <h3>PIV (2-Camera)</h3>
+    <p>Implemented to resolve velocity fields using tracer particles only. This setup provides high-fidelity data on the background fluid turbulence and the dissipation rates near the free surface.</p>
+  </div>
+  <div class="project-media">
+    <figure>
+      <img src="/images/PIV_2cam.png" alt="2-Camera PIV Schematic">
+      <figcaption>Two-camera PIV configuration for fluid phase velocity.</figcaption>
+    </figure>
+  </div>
+</div>
 
 
 </section>
