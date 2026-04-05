@@ -21,8 +21,8 @@
     </div>
     <div class="project-media">
       <figure>
-        <img src="/images/tracks-r10-16-short.gif" alt="Particle Animation">
-        <figcaption>Particle trajectories under wind-generated waves and turbulence (from experiments).</figcaption>
+        <img src="/images/balance_schematics.png" alt="Flux balance">
+        <figcaption>Balance of particle transport parameters. Particle buoynacy makes them go up but turbulence mixes them down. My work investigates the effects of waves and turbulence, and particle size, shape and density on their vertical transport. </figcaption>
       </figure>
     </div>
   </div>
