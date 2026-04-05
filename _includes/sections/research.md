@@ -86,7 +86,7 @@
 <div class="project-row">
   <div class="project-text">
     <h3>Large-Scale Shadow Tracking</h3>
-    <p>Used to estimate turbulent diffusivity ($K$) and rise velocity ($w$) in high-wind conditions (up to 16 m/s). This method allows for the tracking of various particle geometries (spheres, rods, and disks) as small as 2 mm in diameter across large volumes.</p>
+    <p>Used to estimate turbulent diffusivity and rise velocity in high-wind conditions (up to 16 m/s). This method allows for the tracking of various particle geometries (spheres, rods, and disks) as small as 2 mm in diameter across large volumes.</p>
   </div>
   <div class="project-media">
     <figure>
