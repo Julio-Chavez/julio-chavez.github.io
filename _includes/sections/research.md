@@ -65,7 +65,7 @@
 
   <hr class="section-divider">
 <h2>Experimental Facilities &amp; Methods</h2>
-<p>I design and execute large scale experiments to capture the multiscale dynamics of particles at the air‑water interface.</p>
+<p>I design and execute large-scale experiments to capture the multiscale dynamics of particles near the air‑water interface.</p>
 
 <!-- ==== Media‑row (any mix of GIFs, images, videos) ==== -->
 <div class="media-row">
@@ -112,7 +112,7 @@
 <div class="project-row">
   <div class="project-text">
     <h3>Simultaneous Multi-Phase PIV (1-Camera)</h3>
-    <p>A specialized single-camera setup designed to distinguish between tracer particles (fluid phase) and larger plastic particles (dispersed phase). This allows for the direct measurement of relative velocities and the modification of particle rise speeds by flow-induced effects.</p>
+    <p>A single-camera setup designed to image both tracer particles (fluid phase) and larger plastic particles (dispersed phase). This allows for the direct measurement of relative velocities and the modification of particle rise speeds by flow-induced effects.</p>
   </div>
   <div class="project-media">
     <figure>
