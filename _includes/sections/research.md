@@ -65,7 +65,7 @@
 
   <hr class="section-divider">
 <h2>Experimental Facilities &amp; Methods</h2>
-<p>I design and execute high‑resolution experiments to capture the multiscale dynamics of particles at the air‑water interface.</p>
+<p>I design and execute large scale experiments to capture the multiscale dynamics of particles at the air‑water interface.</p>
 
 <!-- ==== Media‑row (any mix of GIFs, images, videos) ==== -->
 <div class="media-row">
@@ -75,14 +75,27 @@
          alt="Shadow‑tracking experiment video">
     <figcaption>Large‑scale shadow tracking in a wind‑wave flume.</figcaption>
   </div>
-
-  <!-- ----------  Static image (or another GIF) ---------- -->
   <div class="media-cell">
     <img src="/images/vert_velocity.gif"
          alt="PIV setup">
     <figcaption>Velocity field from two‑camera PIV configuration.</figcaption>
   </div>
 </div>
+
+<!-- Method 1 -->
+<div class="project-row">
+  <div class="project-text">
+    <h3>Large-Scale Shadow Tracking</h3>
+    <p>Used to estimate turbulent diffusivity ($K$) and rise velocity ($w$) in high-wind conditions (up to 16 m/s). This method allows for the tracking of various particle geometries (spheres, rods, and disks) as small as 2 mm in diameter across large volumes.</p>
+  </div>
+  <div class="project-media">
+    <figure>
+      <img src="/images/LSSTsetup.png" alt="Shadow Tracking Schematic">
+      <figcaption>Setup for large-scale shadow tracking in wind-driven flows.</figcaption>
+    </figure>
+  </div>
+</div>
+
 
 
 </section>
