@@ -2,8 +2,7 @@
 
   <!-- SUBSECTION 1: Interests -->
   <h2>Research Interests</h2>
-  <p>My research focuses on the fundamental physics of particle transport in turbulent and wave-driven flows.</p> 
-  <p>I use a combination of laboratory experiments, particle-based measurements, and data-driven analysis to study these systems. These insights have direct implications for environmental and geophysical processes, including the transport of microplastics in the ocean, the dispersion of pollutants, the evolution of oil spills, and the dynamics of particles in the atmosphere.</p>
+  <p>My research focuses on the fundamental physics of particle transport in turbulent and wave-driven flows. These insights have direct implications for environmental and geophysical processes, including the transport of microplastics in the ocean, the dispersion of pollutants, the evolution of oil spills, and the dynamics of particles in the atmosphere.</p>
   <p>I am interested in extending my work toward theoretical and computational frameworks for transport in turbulent flows. In particular, I aim to develop reduced-order models and numerical simulations that complement experimental observations.</p>
 
   <hr class="section-divider">
@@ -17,12 +16,12 @@
       <h3>Particle Transport in Free-Surface Flows</h3>
       <span class="collab-text">In collaboration with Dr. Jim Riley (UW)</span>
       <p>My research investigates how near-neutrally buoyant particles are transported in a turbulent free-surface boundary layer. These flows are relevant to environmental systems such as oceans, rivers, and atmospheric interfaces.</p>
-      <p>I conduct laboratory experiments in a wind-wave flume and analyze particle motion using particle tracking (PT). A central focus of this work is understanding how waves and turbulence affect the transport of near-neutrally buoyant particles.</p>
+      <p>I conduct laboratory experiments in a wind-wave flume and analyze particle motion using particle tracking (PT). A central focus of this work is understanding how waves and turbulence affect the transport of near-neutrally buoyant particles. </p>
     </div>
     <div class="project-media">
       <figure>
         <img src="/images/balance_schematics.png" alt="Flux balance">
-        <figcaption>Balance of particle transport parameters. Particle buoynacy makes them go up but turbulence mixes them down. My work investigates the effects of waves and turbulence, and particle size, shape and density on their vertical transport. </figcaption>
+        <figcaption>Balance of particle transport parameters. Particle buoyancy makes particles go up but turbulence mixes them down. </figcaption>
       </figure>
     </div>
   </div>
@@ -32,7 +31,8 @@
     <div class="project-text">
       <h3>Lagrangian Autocorrelation in Free-Surface Flows</h3>
       <span class="collab-text">In collaboration with Dr. Jim Riley (UW)</span>
-      <p>This project focuses on the effects of waves and turbulence on the velocity fluctuation autocorrelation of particles.</p>
+      <p>Autocorrelation function (ACF) quantifies how the velocity of a particle at one instant is statistically related to its velocity at a later time lag. This function is important because it links the particle velocity memory to the macroscopic spread of a cloud of particles.  Consequently, an accurate ACF is important for reliable predictions of particle spread.</p>
+      <p>My current focus is to measure how wind-driven flows modify the ACF and consequently the spread of particles of different sizes and shapes.</p>
     </div>
     <div class="project-media">
       <figure>
