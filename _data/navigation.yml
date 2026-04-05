@@ -7,9 +7,10 @@ main:
   - title: "Publications"
     url: "/#publications"
 
-  # - title: "CV"
-  #   # url: /cv/
-  #   url: /files/Julio_Chavez_cv.pdf
+  - title: "CV"
+    url: /cv/          # points to a dedicated page (see next step) OR
+    url: /files/Julio_Chavez_cv.pdf
+    external: true     # optional – tells the theme to open in a new tab
     
   #- title: "Guide"
   #  url: /markdown/
