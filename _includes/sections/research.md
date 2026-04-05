@@ -108,6 +108,19 @@
     </figure>
   </div>
 </div>
+<!-- Method 3 -->
+<div class="project-row">
+  <div class="project-text">
+    <h3>Simultaneous Multi-Phase PIV (1-Camera)</h3>
+    <p>A specialized single-camera setup designed to distinguish between tracer particles (fluid phase) and larger plastic particles (dispersed phase). This allows for the direct measurement of relative velocities and the modification of particle rise speeds by flow-induced effects.</p>
+  </div>
+  <div class="project-media">
+    <figure>
+      <img src="/images/PIV_1cam.png" alt="1-Camera PIV Schematic">
+      <figcaption>Phase-separation imaging for simultaneous tracking of tracers and plastics.</figcaption>
+    </figure>
+  </div>
+</div>
 
 
 </section>
