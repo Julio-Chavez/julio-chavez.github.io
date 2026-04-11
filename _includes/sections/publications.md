@@ -1,6 +1,6 @@
 <div id="publications">
-  <h2>Publications</h2>
-  <hr class="section-divider">
+  <h1>Publications</h1>
+    <!-- <hr class="section-divider"> -->
 
   <ol class="pub-list">
     {% for p in site.data.publications %}
