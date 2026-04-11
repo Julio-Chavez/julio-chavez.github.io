@@ -1,14 +1,14 @@
 <section id="research">
 
   <!-- SUBSECTION 1: Interests -->
-  <h2>Research Interests</h2>
+  <h1>Research Interests</h1>
   <p>My research focuses on the fundamental physics of particle transport in turbulent and wave-driven flows. These insights have direct implications for environmental and geophysical processes, including the transport of microplastics in the ocean, the dispersion of pollutants, the evolution of oil spills, and the dynamics of particles in the atmosphere.</p>
   <p>I am interested in extending my work toward theoretical and computational frameworks for transport in turbulent flows. In particular, I aim to develop reduced-order models and numerical simulations that complement experimental observations.</p>
 
   <hr class="section-divider">
 
   <!-- SUBSECTION 2: Current Research -->
-  <h2>Current Research</h2>
+  <h1>Current Research</h1>
 
   <!-- Project 1 (Standard: Text Left, Image Right) -->
   <div class="project-row">
@@ -45,7 +45,7 @@
   <hr class="section-divider">
 
   <!-- SUBSECTION 3: Completed Research -->
-  <h2>Completed Research</h2>
+  <h1>Completed Research</h1>
 
   <!-- Project 3 (Standard: Text Left, Image Right) -->
   <!-- Note: Since Project 2 was reversed, Project 3 is standard to keep the trend -->
@@ -64,7 +64,7 @@
   </div>
 
   <hr class="section-divider">
-<h2>Experimental Facilities &amp; Methods</h2>
+<h1>Experimental Facilities &amp; Methods</h1>
 <p>I design and execute large-scale experiments to capture the multiscale dynamics of particles near the air‑water interface.</p>
 
 <!-- ==== Media‑row (any mix of GIFs, images, videos) ==== -->
