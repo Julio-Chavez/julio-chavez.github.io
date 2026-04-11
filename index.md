@@ -17,3 +17,8 @@ permalink: /
 <section id="publications" class="page-section" markdown="1">
 {% include sections/publications.md %}
 </section>
+
+<!-- OUTREACH -->
+<section id="outreach" class="page-section" markdown="1">
+{% include sections/outreach.md %} 
+</section>

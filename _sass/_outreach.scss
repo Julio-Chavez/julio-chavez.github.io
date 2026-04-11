@@ -1,0 +1,18 @@
+/* assets/css/_outreach.scss ------------------------------------------------- */
+/*  Out‑reach section – white background, same spacing as other sections    */
+
+#outreach {
+  background-color: #ffffff;           // pure white (change to #fcfcfc if you prefer a softer tone)
+  padding: 4rem 20px;                  // same vertical padding the theme uses for other sections
+  max-width: 1000px;                   // keep width aligned with other content blocks
+  margin: 0 auto;                      // centre the block horizontally
+}
+
+/* Header styling – match the other sections */
+#outreach h2 {
+  margin-bottom: 1.5rem;
+  color: #2c3e50;                      // primary heading colour from the theme (adjust if needed)
+}
+
+/* Optional subtle separator – uncomment if you like a line on top/bottom */
+/* #outreach { border-top: 1px solid #eaeaea; } */
