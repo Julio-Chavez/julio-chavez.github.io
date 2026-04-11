@@ -2,16 +2,23 @@
 /*  Out‑reach section – white background, same spacing as other sections    */
 
 #outreach {
-  background-color: #ffffff;           // pure white (change to #fcfcfc if you prefer a softer tone)
-  padding: 4rem 20px;                  // same vertical padding the theme uses for other sections
-  max-width: 1000px;                   // keep width aligned with other content blocks
-  margin: 0 auto;                      // centre the block horizontally
-}
+  padding: 1.5rem 1.5rem;
+  max-width: 1300px;
+  margin: 0 auto;
+  background: #ffffff; /* White background as requested */
+  color: #333;
+  
+  /* Horizontal line styling */
+  hr.section-divider {
+    border: 0;
+    border-top: 1px solid #e0e0e0;
+    margin: 2rem 0;
+  }
 
-/* Header styling – match the other sections */
-#outreach h2 {
-  margin-bottom: 1.5rem;
-  color: #2c3e50;                      // primary heading colour from the theme (adjust if needed)
+  h2 {
+    margin-bottom: 1.5rem;
+    font-weight: 700;
+  }
 }
 
 /* Optional subtle separator – uncomment if you like a line on top/bottom */
