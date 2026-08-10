@@ -13,6 +13,13 @@
     <h3>Highlights</h3>
     <ul>
         <li><a href="https://journals.ametsoc.org/view/journals/atot/42/5/JTECH-D-24-0039.1.xml">Recent paper</a></li>
+        <li>
+          <a href="https://Julio-Chavez.github.io/flowtracks/"
+            target="_blank"
+            rel="noopener">
+              FlowTracks visualization
+          </a>
+      </li>
     </ul>
   </div>
 
