@@ -6,8 +6,8 @@ main:
     url: "/#research"
   - title: "Publications"
     url: "/#publications"
-  - title: "Outreach"
-    url: "/#outreach"
+  # - title: "Outreach"
+  #   url: "/#outreach"
 
   - title: "CV"
     url: /cv/          # points to a dedicated page (see next step) OR

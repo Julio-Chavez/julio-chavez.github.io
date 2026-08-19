@@ -19,6 +19,6 @@ permalink: /
 </section>
 
 <!-- OUTREACH -->
-<section id="outreach" class="page-section" markdown="1">
+<!-- <section id="outreach" class="page-section" markdown="1">
 {% include sections/outreach.md %} 
-</section>
+</section> -->
